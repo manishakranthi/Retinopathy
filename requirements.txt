@@ -21,13 +21,11 @@ itsdangerous==2.2.0
 Jinja2==3.1.6
 jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
-keras==2.16.0
 libclang==18.1.1
 Markdown==3.8
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
-ml_dtypes==0.5.1
 namex==0.1.0
 narwhals==1.43.1
 numpy==1.26.4

@@ -275,7 +275,7 @@ def render_sidebar():
 def render_header():
     st.markdown("""
         <div class="main-header">
-            <h1>👁️ AI Retina Analyzer</h1>
+            <h1>AI Retina Analyzer</h1>
             <p>Advanced Diabetic Retinopathy Detection with Deep Learning</p>
         </div>
     """, unsafe_allow_html=True)
